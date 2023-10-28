@@ -19,17 +19,20 @@ openai
 #Installation
 1) Clone the repository to your local machine
    """git clone <repository-url>
-      cd Celebrity-Search"""
-2) Install the required packages
+
+   cd Celebrity-Search"""
+3) Install the required packages
    """pip install -r rquirements.txt"""
-3) Set up your OpenAI API Key:
+4) Set up your OpenAI API Key:
    Replace <YOUR_OPENAI_API_KEY> in the constants.py file with your actual OpenAI API Key.
-4) Run the application:
+5) Run the application:
    """streamlit run celebrity-search.py"""
    The application should be accessible in the web browser
 # usage
 1)Open the application in your web browser.
+
 2)Enter the name of the celebrity you want to search for in the provided input field.
+
 3)Click the search button to retrieve information about the celebrity, including their date of birth and historical events.
 
 # Implementation Details
