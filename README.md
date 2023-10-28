@@ -12,13 +12,16 @@ Features:
 Before you begin, ensure you have the following installed:
 
 Python (version 3.8 or higher)
+
 streamlit
+
 langchain
+
 openai
 
 #Installation
 1) Clone the repository to your local machine
-   """git clone <repository-url>
+   """git clone "repository-url"
 
    cd Celebrity-Search"""
 3) Install the required packages
